@@ -22,8 +22,31 @@ a:hover{
 }
 
 .header {
-  padding: 15px;
+  padding: 0px 100px;
   background: #1F2122;
+  display: flex;
+}
+
+.header-logo {
+  max-height: 30px;
+  margin: 15px 5px;
+}
+
+.homelink{
+  display: flex;
+}
+
+.homelink-text {
+  margin: auto;
+}
+
+.divider {
+  display: flex;
+  flex: 1;
+}
+
+.header-nav {
+  margin: auto;
 }
 
 .page-content {
