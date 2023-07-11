@@ -1,0 +1,22 @@
+---
+layout: post
+author: Andrew
+category: offshore
+title: Is Living Abroad a Good Idea?
+---
+
+It's hard to know if living in another country is right for you, because there are so many factors involved. Some people are afraid to even travel outside of their hometown, while others are willing to drop everything and move to a country they know nothing about. I would caution against both mentalities, and recommend keeping an open and critical mind.
+
+With regards to the fear of new places, there are definitely a handful of countries in the world that I would hesitate before visiting. But thankfully, the majority of the countries on Earth are relatively safe as long as you do the proper research beforehand. I think a lot of this fear tends to manifest in people who spend a lot of time watching news programs. These programs are heavily incentivized to show us only the most traumatic events that occur around the world. In fact, a lot of people probably only ever hear about certain countries from the news showing tragic events happening there. It's important to consider that normal daily life doesn't make a good news story, so you probably aren't going to see these places shown in a good light.
+
+On the other hand, there can also be tendency for people to romanticize certain places around the world, and be disappointed when arriving. A classic example is Japan, which is a country with a fascinating but different culture. And people are often exposed to this culture through some animated series that depicts a socially vibrant culture full of students enjoying life together, where in reality, life in Japan can be pretty isolating, especially as a foreigner who doesn’t speak the language.
+
+There have already been two occasions in my life where I eagerly packed my bags and moved to a new country before even visiting first to see if I liked it. Thankfully I lucked out, and both times I did this, the place was a good fit for me. But, both times, I got the opportunity to visit a country I had previously considered living in, and realized that I had dodged a bullet. Not that these countries were bad in a general sense, these were actually fantastic, unique and fascinating places. They were just definitely the wrong fit for me, for a variety of reasons.
+
+I’ve realized that my focus when choosing a country to spend a lot of time in is usually too logistical. I was focused entirely on what kind of residence permit is available, what the cost of living is, what kind of tax situation there is, etc. But I never really took enough time to consider the personal side of things. Moving to another country means that you’re spending the majority of each year there, day after day after day surrounded by that culture, and that language. It takes a while, but eventually the roughest edges are going to start to become the most noticeable. Things such as the weather, pollution, infrastructure, what the people are like, etc. It’s best to be prepared for these things, or realize early on if they’re dealbreakers. Some things might seem like dealbreakers at first, but can actually be managed. For example, it might seem like you have to say goodbye to your family for long periods of time. But you might be surprised to find direct flights between where your family lives and somewhere you’ve considered living.
+
+It’s also important to consider what you enjoy doing while traveling, and try to incorporate that into your decision. For example, if trying good food is a hobby of yours, moving to a country known for their cuisine is a good idea. In my case, I had to consider that one of my favorite parts of traveling is trying to use the local language. But in reality, there are just some languages that I have no interest in trying to learn, so moving to a country where one of those languages is spoken would have been a terrible idea. It may seem obvious now, but this is something I almost did.
+
+## Summary
+
+People generally seem to have wildly different reactions emotionally to the idea of living in another country. From my experience living abroad, I’ve found that the logistical side and the emotional side are equally important aspects to consider, and each of them have a variety of factors that you might not consider at first. Eventually, after researching the places that you find interesting, you might still feel unprepared. You might get cold feet and want to cancel. But know that life is boring without taking some risks, and in the end you might regret not having thrown caution to the wind sooner.
